@@ -140,6 +140,15 @@
       "content"
     ]
   },
+  "blueprints/wpgraphql/blueprint.json": {
+    "title": "Use WPGraphQL to query WordPress",
+    "description": "Example that loads WordPress with WPGraphQL active and defaults to the WPGraphQL IDE page to allow users to test GraphQL queries and explore the GraphQL Schema.",
+    "author": "jasonbahl",
+    "categories": [
+      "API",
+      "wpgraphql"
+    ]
+  },
   "blueprints/posts-via-wp-cli/blueprint.json": {
     "title": "Use wp-cli command to add posts",
     "description": "Blueprint example to add posts via a wp-cli command.",
