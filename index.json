@@ -35,6 +35,15 @@
       "CPT"
     ]
   },
+  "blueprints/tt5-demo/blueprint.json": {
+    "title": "Demo of Twenty-Twenty-Five theme",
+    "description": "Blueprint with demo content for the Twenty-Twenty-Five default theme",
+    "author": "bph",
+    "categories": [
+      "Themes",
+      "default"
+    ]
+  },
   "blueprints/admin-notice/blueprint.json": {
     "title": "Display Admin Notice ",
     "description": "Blueprint to add a tiny mu-plugin and display an admin notice",
