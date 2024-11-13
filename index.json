@@ -62,6 +62,15 @@
       "Experiments"
     ]
   },
+  "blueprints/themestartercontent/blueprint.json": {
+    "title": "Import Theme Starter Content",
+    "author": "bph",
+    "description": "Blueprint to install a theme with starter content, (here: Twenty-Twenty-One)",
+    "categories": [
+      "Themes",
+      "Starter Content"
+    ]
+  },
   "blueprints/translations/blueprint.json": {
     "title": "Install WordPress language packs",
     "author": "adamziel",
