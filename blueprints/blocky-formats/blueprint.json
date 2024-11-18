@@ -6,21 +6,21 @@
 		"author": "adamziel",
 		"categories": ["block-editor"]
 	},
-  "login": true,
-  "landingPage": "/wp-admin/post-new.php",
-  "steps": [
-    {
-      "step": "installPlugin",
-      "options": {
-        "activate": true,
-        "targetFolderName": "blocky-formats"
-      },
-      "pluginData": {
-        "resource": "git:directory",
-        "url": "https://github.com/dmsnell/blocky-formats.git",
-        "ref": "trunk",
-        "path": ""
-      }
-    }
-  ]
+	"login": true,
+	"landingPage": "/wp-admin/post-new.php",
+	"steps": [
+		{
+			"step": "installPlugin",
+			"options": {
+				"activate": true,
+				"targetFolderName": "blocky-formats"
+			},
+			"pluginData": {
+				"resource": "git:directory",
+				"url": "https://github.com/dmsnell/blocky-formats.git",
+				"ref": "trunk",
+				"path": ""
+			}
+		}
+	]
 }

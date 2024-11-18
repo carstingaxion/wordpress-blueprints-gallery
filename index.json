@@ -112,6 +112,14 @@
       "Role"
     ]
   },
+  "blueprints/blocky-formats/blueprint.json": {
+    "title": "Markdown and Trac Syntax Editor",
+    "description": "Edit Markdown and Trac formatting in the block editor thanks to the blocky-formats plugin!",
+    "author": "adamziel",
+    "categories": [
+      "block-editor"
+    ]
+  },
   "blueprints/use-pretty-permalinks/blueprint.json": {
     "title": "Pretty permalinks",
     "description": "Set the permalink structure to use pretty permalinks.",
