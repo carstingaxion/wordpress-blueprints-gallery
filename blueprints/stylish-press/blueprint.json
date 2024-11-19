@@ -9,7 +9,7 @@
 	"landingPage": "/shop",
 	"preferredVersions": {
 		"php": "8.3",
-		"wp": "latest"
+		"wp": "6.6"
 	},
 	"features": {
 		"networking": true
