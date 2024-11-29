@@ -71,6 +71,15 @@
       "Starter Content"
     ]
   },
+  "blueprints/file-starter-content/blueprint.json": {
+    "title": "Import a standalone starter content via a blueprint step",
+    "author": "bph",
+    "description": "Blueprint to use a stand-alone starter content file and then to import it. Click on 'Subscriptions'",
+    "categories": [
+      "Themes",
+      "Starter Content"
+    ]
+  },
   "blueprints/translations/blueprint.json": {
     "title": "Install WordPress language packs",
     "author": "adamziel",

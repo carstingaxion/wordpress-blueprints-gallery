@@ -11,20 +11,20 @@
 		"networking": true
 	},
 	"steps": [
-        {
-            "step": "writeFile",
-            "path": "/wordpress/wp-content/plugins/starter-content.php",
-            "data": {
-              "resource": "url",
-              "url": "https://raw.githubusercontent.com/wordpress/blueprints/filestartercontent/blueprints/file-starter-content/startercontent.php"
-            }
-          },
-          {
-            "step": "activatePlugin",
-            "pluginPath": "/wordpress/wp-content/plugins/starter-content.php"
-          },
-          {
-            "step": "importThemeStarterContent"
-          }
+		{
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/plugins/starter-content.php",
+			"data": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/wordpress/blueprints/trunk/blueprints/file-starter-content/startercontent.php"
+			}
+		},
+		{
+			"step": "activatePlugin",
+			"pluginPath": "/wordpress/wp-content/plugins/starter-content.php"
+		},
+		{
+			"step": "importThemeStarterContent"
+		}
 	]
 }
