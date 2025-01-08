@@ -13,6 +13,9 @@
 	"features": {
 		"networking": true
 	},
+	"plugins": [
+		"create-block-theme"
+	],
 	"steps": [
 		{
 			"step": "login"
@@ -29,16 +32,6 @@
 			"file": {
 				"resource": "url",
 				"url": "https://raw.githubusercontent.com/WordPress/theme-test-data/master/themeunittestdata.wordpress.xml"
-			}
-		},
-		{
-			"step": "installPlugin",
-			"pluginZipFile": {
-				"resource": "wordpress.org/plugins",
-				"slug": "create-block-theme"
-			},
-			"progress": {
-				"weight": 2
 			}
 		},
 		{
