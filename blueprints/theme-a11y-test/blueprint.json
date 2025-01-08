@@ -13,9 +13,7 @@
 	"features": {
 		"networking": true
 	},
-	"plugins": [
-		"create-block-theme"
-	],
+	"plugins": ["create-block-theme"],
 	"steps": [
 		{
 			"step": "login"
