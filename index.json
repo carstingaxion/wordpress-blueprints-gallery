@@ -53,6 +53,15 @@
       "notices"
     ]
   },
+  "blueprints/gb-more-experiments/blueprint.json": {
+    "title": "Enable all three Dataview Experiments in Gutenberg",
+    "author": "bph",
+    "description": "Blueprint example to enable multiple Experiments within the Gutenberg plugin ",
+    "categories": [
+      "Gutenberg",
+      "Experiments"
+    ]
+  },
   "blueprints/grid-variations/blueprint.json": {
     "title": "Grid Variations Experiments enabled",
     "author": "bph",
